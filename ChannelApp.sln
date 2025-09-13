@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelApp", "ChannelApp.csproj", "{BC837B82-137F-57E8-C640-FAC993069AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC837B82-137F-57E8-C640-FAC993069AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC837B82-137F-57E8-C640-FAC993069AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC837B82-137F-57E8-C640-FAC993069AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC837B82-137F-57E8-C640-FAC993069AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7684CDFE-A419-43E3-A6BA-C2057108EC38}
+	EndGlobalSection
+EndGlobal

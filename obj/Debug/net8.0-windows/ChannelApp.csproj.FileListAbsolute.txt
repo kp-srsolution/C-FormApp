@@ -1,0 +1,14 @@
+D:\Karan\React Tasks\C#\ChannelApp\bin\Debug\net8.0-windows\ChannelApp.exe
+D:\Karan\React Tasks\C#\ChannelApp\bin\Debug\net8.0-windows\ChannelApp.deps.json
+D:\Karan\React Tasks\C#\ChannelApp\bin\Debug\net8.0-windows\ChannelApp.runtimeconfig.json
+D:\Karan\React Tasks\C#\ChannelApp\bin\Debug\net8.0-windows\ChannelApp.dll
+D:\Karan\React Tasks\C#\ChannelApp\bin\Debug\net8.0-windows\ChannelApp.pdb
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.AssemblyInfoInputs.cache
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.AssemblyInfo.cs
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.csproj.CoreCompileInputs.cache
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.dll
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\refint\ChannelApp.dll
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.pdb
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.genruntimeconfig.cache
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ref\ChannelApp.dll
