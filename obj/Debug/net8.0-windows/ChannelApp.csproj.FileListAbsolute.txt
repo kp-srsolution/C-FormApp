@@ -12,3 +12,4 @@ D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\refint\ChannelApp.dl
 D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.pdb
 D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.genruntimeconfig.cache
 D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ref\ChannelApp.dll
+D:\Karan\React Tasks\C#\ChannelApp\obj\Debug\net8.0-windows\ChannelApp.sourcelink.json

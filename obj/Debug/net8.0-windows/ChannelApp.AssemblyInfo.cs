@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChannelApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+934a467b02701a1af2feb877ecbb8decef22a542")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChannelApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChannelApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
